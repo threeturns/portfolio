@@ -1,9 +1,11 @@
 # portfolio
-archive of sample data analysis vizualizations
+An archive of data vizualizations by a policy wonk: the topical and/or the ridiculous
 # access work here
 https://threeturns.github.io/portfolio/ 
-# housing stock and commute to work times (So Cal)
+# Housing stock and commute times in So Cal
  
-# housing costs and jobs: coastal vs inland (So Cal)
+# Housing costs and jobs in So Cal: Coastal vs Inland
  
-# food access
+# Land use, food access, and health in So Cal
+
+# Time distribution at a sub par job
